@@ -1,3 +1,10 @@
+https://x.com/ipengweb3/status/1919461681576440252?t=YODvqo5b5JCLMKEOOS914Q&s=19
+
+
+
+
+
+
 # community-resources
 Community suggested resources for development on Monad.
 
